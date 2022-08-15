@@ -1,4 +1,4 @@
-# Watch-It-Discribtion
+# Watch-It
 
 An android app written for wearOs and android watches 
 this app is written in kotlin language and uses google map API from google cloud platform services . 
